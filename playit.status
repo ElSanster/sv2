@@ -1,104 +1,619 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731539788153 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731541324550 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539791212 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541327620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539794314 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541330688 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539797384 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541333748 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539800457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541336809 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539803526 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541339873 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539806590 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541342934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539809647 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541345998 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539812710 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541349058 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539815776 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541352125 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539818860 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541355195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539821977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541358260 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539825041 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541361330 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539828109 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541364480 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539831171 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541367560 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539834241 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541370631 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539837317 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541373711 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539840385 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541376793 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539843444 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541379871 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539846504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541382945 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731539849561 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731541386004 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541389071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541392145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541395201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541398270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541401335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541404393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541407454 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541410519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541413578 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541416648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541419774 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541422836 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541425902 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541428956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541432014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541435093 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541438168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541441238 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541444313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541447390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541450457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541453515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541456582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541459648 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541462710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541465763 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541468840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541471910 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541474984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541478056 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541481131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541484194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541487254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541490463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541493523 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541496585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541499650 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541502714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541505784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541508885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541511945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541515055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541518128 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541521204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541524273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541527344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541530419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541533486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541536549 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541539610 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541542667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541545727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541548795 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541551866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541554938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541558010 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541561065 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541564132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541567201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541570263 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541573330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541576404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541579463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541582522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541585585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541588646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541591704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541594797 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541597976 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541601049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541604119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541607185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541610239 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541613310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541616374 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541619435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541622491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541625554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541628615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541631677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541634742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541637799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541640862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541644003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541647063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541650124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541653181 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541656240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541659306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541662371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541665452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541668512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541671588 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541674654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541677716 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541680773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541683877 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541686942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541690071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541693132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541696189 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541699303 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+sony-involvement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731541702403 tunnel running, 1 tunnels registered
 
 
 TUNNELS
